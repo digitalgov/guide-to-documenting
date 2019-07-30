@@ -2,4 +2,7 @@
 
 # A Guide Documenting Your Project on GitHub
 
+- [**Read our lastest update »**](https://github.com/digitalgov/guide-to-documenting/releases)
+- [**Meet our team »**](https://github.com/digitalgov/guide-to-documenting/releases)
+
 ## Overview
