@@ -2,12 +2,14 @@
 
 # A Guide Documenting Your Project on GitHub
 
+_![icon](https://demo.digital.gov/img/icons/favicon-16x16.png) This guide is a product of [Digital.gov](https://digital.gov/) and the Technology Transformation Services (TTS) in the [General Services Administration](https://gsa.gov/) (GSA)._
 
-_![icon](https://demo.digital.gov/img/icons/favicon-16x16.png) This guide is a product of Digital.gov and the Technology Transformation Services (TTS) in the General Services Administration (GSA)._
+
+## Overview
+A clear and short outline of the problem you and your team are trying to solve.
+
+
+## Navigation
 
 - [**Read our lastest update »**](https://github.com/digitalgov/guide-to-documenting/releases)
 - [**Meet our team »**](https://github.com/digitalgov/guide-to-documenting/blob/master/team.md)
-
-## Overview
-
-## Overview
