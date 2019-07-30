@@ -1,2 +1,5 @@
-# Guidance as Text on GitHub
-## A guide to publishing your project on GitHub
+# Publishing on GitHub
+## A Guide to documenting and publishing your project on GitHub
+
+
+### Overview
